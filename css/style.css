@@ -1,0 +1,8 @@
+@font-face{
+    font-family:"friends";
+    src: url('Friends.ttf');
+}
+
+h3{
+    font-size: 200%;
+}
